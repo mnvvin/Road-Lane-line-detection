@@ -1,6 +1,8 @@
 # Road-Lane-line-detection
 Lane Line detection is a critical component for self driving cars and also for computer vision in general. This concept is used to describe the path for self-driving cars and to avoid the risk of getting in another lane.
 In this article, we will build a machine learning project to detect lane lines in real-time. We will do this using the concepts of computer vision using OpenCV library. To detect the lane we have to detect the white markings on both sides on the lane.
+![image](https://github.com/user-attachments/assets/163e9082-ffc1-4f1e-995a-7cecea019a08)
+
 
 # Road Lane-Line Detection with Python & OpenCV.
 
